@@ -15,5 +15,7 @@ public class ProbaConta {
         //Creamos un obxecto persoa co construtor sen parámetros
         Conta Conta1=new Conta();
         //poñémoslle nome ao obxecto persoa1
+        /*COMENTARIO DE PROBAS
+        */
     }    
 }

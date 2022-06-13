@@ -11,7 +11,7 @@ package com.mycompany.proxectobanco;
  */
 public class Conta {
     
-    private Individuo titular;
+    private Persoa titular;
     private String numero;
     private float saldo;
 
@@ -46,10 +46,10 @@ public class Conta {
     }
 
 
-    public Individuo getTitular() {
+    public Persoa getTitular() {
         return titular;
     }
-    public void setTitular(Individuo titular) {
+    public void setTitular(Persoa titular) {
         this.titular = titular;
     }
 

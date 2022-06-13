@@ -9,7 +9,7 @@ package com.mycompany.proxectobanco;
  *
  * @author Alex
  */
-public class Individuo {
+public class Persoa {
     
     private String nome;
     private String enderezo;
@@ -18,7 +18,7 @@ public class Individuo {
     private String telefono;
     private String email;
 
-    public Individuo() {
+    public Persoa() {
     }
     
     public String getEmail() {
