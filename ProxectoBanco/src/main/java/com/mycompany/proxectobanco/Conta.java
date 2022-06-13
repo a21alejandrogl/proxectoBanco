@@ -17,6 +17,10 @@ public class Conta {
 
     public Conta() {
     }
+
+    public Conta(float saldo) {
+        this.saldo = 1000;
+    }
     
     public boolean retirar(float valor){
         return true;
