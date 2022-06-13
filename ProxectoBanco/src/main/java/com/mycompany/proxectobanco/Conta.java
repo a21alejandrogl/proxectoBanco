@@ -52,5 +52,9 @@ public class Conta {
     public void setTitular(Persoa titular) {
         this.titular = titular;
     }
+    
+    public float inicializarSaldo(){
+        return this.saldo=0.00f;
+    }
 
 }
