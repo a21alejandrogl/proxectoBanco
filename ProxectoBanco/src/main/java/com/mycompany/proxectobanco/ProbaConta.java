@@ -11,7 +11,11 @@ package com.mycompany.proxectobanco;
  */
 public class ProbaConta {
     
-      public static void main(String[] args) {
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
         //Creamos un obxecto persoa co construtor sen parámetros
         Conta Conta1=new Conta();
         //poñémoslle nome ao obxecto persoa1
